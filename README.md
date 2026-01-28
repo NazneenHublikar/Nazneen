@@ -89,8 +89,10 @@ A real-time data logging system using FreeRTOS with multiple tasks for sensor ac
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: yourname@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: nazneenhublikar@gmail.com  
+- 💼 LinkedIn: ### 🌐 Connect with Me
+
+- 💼 LinkedIn: [Nazneen Hublikar](https://www.linkedin.com/in/nazneenhublik)
 
 ---
 
